@@ -1,6 +1,6 @@
 # Hi there, I'm Shalin Gund 👋
 
-I'm a BI Engineer & Analyst with 3+ years of experience building robust ETL pipelines, optimizing cloud solutions, and creating interactive data visualizations. I’m passionate about transforming raw data into actionable insights.
+I'm a BI Engineer & Analyst with 3+ years of experience building robust ETL pipelines, optimizing cloud solutions, and creating interactive data visualizations to support strategic decision-making. I’m passionate about transforming raw data into actionable insights.
 
 ## 🔍 About Me
 - **Dual Expertise:** Merging data engineering and data analytics to drive impactful solutions.
