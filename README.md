@@ -1,11 +1,11 @@
 # Hi there, I'm Shalin Gund 👋
 
-I'm a Data Engineer & Analyst with 3+ years of experience building robust ETL pipelines, optimizing cloud solutions, and creating interactive data visualizations. I’m passionate about transforming raw data into actionable insights.
+I'm a BI Engineer & Analyst with 3+ years of experience building robust ETL pipelines, optimizing cloud solutions, and creating interactive data visualizations. I’m passionate about transforming raw data into actionable insights.
 
 ## 🔍 About Me
 - **Dual Expertise:** Merging data engineering and data analytics to drive impactful solutions.
 - **Tech Stack:** Python, SQL, Tableau, AWS, Snowflake, Databricks, and more.
-- **Education:** Pursuing a Master’s in Management Information Systems at Texas A&M University.
+- **Education:** Graduated with a Master’s in Management Information Systems from Texas A&M University.
 
 > **Fun Fact:** When I'm not busy analyzing data, I love capturing life's moments through photography and singing my heart out!
 
@@ -15,9 +15,9 @@ I'm a Data Engineer & Analyst with 3+ years of experience building robust ETL pi
 - **Cloud Solutions:** Leverage cloud technologies (e.g., AWS) for data storage, processing, and analytics.
 
 ## 💼 Professional Experience
-- **Data Analyst, Texas A&M University:** Automated data ingestion using REST APIs and AWS S3, built dynamic Tableau dashboards to enhance student engagement.
-- **Data Engineer, Cognizant:** Streamlined ETL pipelines and improved data accuracy during Oracle-to-Snowflake migrations, cutting costs and boosting performance.
-- **Data Analyst Intern, Reliance Jio Platforms:** Developed a real-time analytics platform to monitor network performance, reducing downtime and increasing revenue.
+- **Data Analyst, Texas A&M University:** I transformed program participation data into insights using SQL, Excel, Power BI, and AI tools like Copilot to improve seminar effectiveness, guide leadership decisions, and increase engagement across the university. 
+- **Data Analyst, Cognizant:** I analyzed financial, SaaS, and retail datasets using SQL, Snowflake, Tableau, and AWS to uncover revenue leakage, improve repayment outcomes, optimize product adoption, and build scalable ETL workflows that drove measurable business impact across multiple domains.
+- **Data Analyst Intern, Reliance Jio Platforms:** I built analytics applications and customer segmentation models using Python and MongoDB to understand network usage patterns, guide retention strategies, and drive revenue improvements through data-driven decision-making.
 
 ## 📊 Featured Projects
 - **Netflix Movie Metrics Exploration:** Cleaned and visualized movie data to identify engagement trends.
